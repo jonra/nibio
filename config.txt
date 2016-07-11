@@ -1,7 +1,1 @@
-#Pump configuration
-
-pump1=1
-pump2=1
-pump3=1
-pump4=1
-pump5=1
+#Scale configuration
