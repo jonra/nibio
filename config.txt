@@ -1,5 +1,5 @@
 #Scale configuration, one line per arduino with pots separated by a blank space
-280 285 293 297
--273 -289 -263 -291
-290 270 274 265
+300 305 314 316
+-293 -307 -281 -310
+297 280 284 264
 -266 -274 -274 -248
